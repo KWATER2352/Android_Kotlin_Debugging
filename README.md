@@ -44,7 +44,7 @@ GIF created with **ScreenToGif**
 - [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-Really enjoyed debugging this project. I am not sure why, but as you can see from the gif, the emulator would glitch every time I clicked on a widget. 
+Really enjoyed debugging this project. Interested in how the app managed to retrieve the current date. 
 ## License
 
 Copyright **2023** **Kristen Waterford**
